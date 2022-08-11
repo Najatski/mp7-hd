@@ -1,9 +1,13 @@
 # mp7-hd
- Mario Party 7 texture upscale project in 4x resolution using mostly AI. Will make the whole game look a lot better in theory (obviously).
+This is a Mario Party 7 texture upscale project in 4x resolution using mostly AI. Will make the whole game look a lot better in theory (obviously).
  
- # Progress
+# How to Install
+
+To install this texture pack, you should grab the latest version from releases and put it in your dolphin textures directory in `Documents/Dolphin Emulator/Load/Textures`. Put the `GP7E` folder in that Textures folder, and make sure to enable [`Load Custom Textures`](https://imgur.com/a/Vs4fj0J) in Dolphin.
  
- ### Boards
+# Progress
+ 
+### Boards
  
 - [ ] Grand Canal
 - [ ] Pagoda Peak
@@ -12,7 +16,7 @@
 - [ ] Windmillville
 - [ ] Bowser's Enchanted Inferno!
  
- ### Characters
+### Characters
  
 ##### Playable Characters
  
@@ -29,9 +33,13 @@
  - [ ] Birdo
  - [ ] Dry Bones
  
- ##### Non-Playable Characters
+##### Non-Playable Characters
  
  - [ ] Toadsworth
  - [ ] Bowser
  - [ ] Background Characters (Koopa, Goomba, etc.)
  
+ ### Misc
+ 
+ - [ ] UI Elements
+ - [ ] Misc textures (Title screen, cutscenes, etc.)
