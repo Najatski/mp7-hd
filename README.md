@@ -24,10 +24,10 @@ To install this texture pack, you should grab the latest version from [releases]
  - [ ] Luigi
  - [ ] Princess Peach
  - [ ] Yoshi
- - [ ] Wario
- - [ ] Princess Daisy
- - [ ] Waluigi
- - [ ] Toad
+ - [X] Wario
+ - [X] Princess Daisy
+ - [X] Waluigi
+ - [X] Toad
  - [ ] Boo
  - [ ] Toadette
  - [ ] Birdo
@@ -35,7 +35,7 @@ To install this texture pack, you should grab the latest version from [releases]
  
 ##### Non-Playable Characters
  
- - [ ] Toadsworth
+ - [X] Toadsworth
  - [ ] Bowser
  - [ ] Background Characters (Koopa, Goomba, etc.)
  
