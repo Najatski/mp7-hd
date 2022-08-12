@@ -10,7 +10,7 @@ To install this texture pack, you should grab the latest version from [releases]
  
 ### Boards
  
-- [ ] Grand Canal
+- [X] Grand Canal
 - [ ] Pagoda Peak
 - [ ] Pyramid Park
 - [ ] Neon Heights
@@ -24,11 +24,11 @@ To install this texture pack, you should grab the latest version from [releases]
 
 - [X] Catchy Tunes
 - [ ] Bubble Brawl
-- [ ] Track & Yield
+- [X] Track & Yield
 - [ ] Fun Run
-- [ ] Cointagious
+- [X] Cointagious
 - [ ] Snow Ride
-- [ ] Picture This
+- [X] Picture This
 - [ ] Ghost in the Hall
 - [ ] Big Dripper
 - [ ] Target Tag
