@@ -21,7 +21,7 @@ To install this texture pack, you should grab the latest version from [releases]
 
 ##### 4-Player minigames
 
-- [ ] Catchy Tunes
+- [X] Catchy Tunes
 - [ ] Bubble Brawl
 - [ ] Track & Yield
 - [ ] Fun Run
@@ -42,7 +42,7 @@ To install this texture pack, you should grab the latest version from [releases]
 - [ ] Balloonatic
 - [ ] Spinner Cell
 - [ ] Think Tank
-- [ ] Flashfright
+- [X] Flashfright
 - [ ] Coin-op Bop
 - [ ] Easy Pickings
 - [ ] Pogo-a-Go-Go
@@ -100,7 +100,7 @@ To install this texture pack, you should grab the latest version from [releases]
 - [ ] Treasure Dome!
 - [ ] Slot-O-Whirl!
 - [ ] Funstacle Course!
-- [ ] Funderwall!
+- [X] Funderwall!
 - [ ] Magmagical Journey!
 
 ##### Rare Minigames
@@ -111,8 +111,8 @@ To install this texture pack, you should grab the latest version from [releases]
  
 ##### Playable Characters
  
- - [ ] Mario
- - [ ] Luigi
+ - [X] Mario
+ - [X] Luigi
  - [ ] Princess Peach
  - [ ] Yoshi
  - [X] Wario
@@ -127,11 +127,11 @@ To install this texture pack, you should grab the latest version from [releases]
 ##### Non-Playable Characters
  
  - [X] Toadsworth
- - [ ] Bowser
+ - [X] Bowser
  - [ ] Koopa Kid
- - [ ] Background Characters (Koopa, Goomba, etc.)
+ - [X] Background Characters (Koopa, Goomba, etc.)
  
  ### Misc
  
- - [ ] UI Elements
+ - [X] UI Elements
  - [ ] Misc textures (Title screen, cutscenes, etc.) 
