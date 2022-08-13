@@ -11,7 +11,7 @@ To install this texture pack, you should grab the latest version from [releases]
 ### Boards
  
 - [X] Grand Canal
-- [ ] Pagoda Peak
+- [X] Pagoda Peak
 - [ ] Pyramid Park
 - [ ] Neon Heights
 - [ ] Windmillville
@@ -23,22 +23,22 @@ To install this texture pack, you should grab the latest version from [releases]
 ##### 4-Player minigames
 
 - [X] Catchy Tunes
-- [ ] Bubble Brawl
+- [X] Bubble Brawl
 - [X] Track & Yield
-- [ ] Fun Run
+- [X] Fun Run
 - [X] Cointagious
-- [ ] Snow Ride
+- [X] Snow Ride
 - [X] Picture This
-- [ ] Ghost in the Hall
-- [ ] Big Dripper
-- [ ] Target Tag
-- [ ] Pokey Pummel
-- [ ] Take Me Ohm
-- [ ] Kart Wheeled
+- [X] Ghost in the Hall
+- [X] Big Dripper
+- [X] Target Tag
+- [X] Pokey Pummel
+- [X] Take Me Ohm
+- [X] Kart Wheeled
 
 ##### 1-vs.-3 minigames
 
-- [ ] La Bomba
+- [X] La Bomba
 - [ ] Spray Anything
 - [ ] Balloonatic
 - [ ] Spinner Cell
@@ -59,7 +59,7 @@ To install this texture pack, you should grab the latest version from [releases]
 - [ ] Wingin' It
 - [ ] Sphere Factor
 - [ ] Herbicidal Maniac
-- [ ] Pyramid Scheme
+- [X] Pyramid Scheme
 - [ ] World Piece
 - [ ] Spider Stomp
 
@@ -90,7 +90,7 @@ To install this texture pack, you should grab the latest version from [releases]
 
 - [ ] Jump, Man
 - [ ] Vine Country
-- [ ] A Bridge Too Short
+- [X] A Bridge Too Short
 - [ ] Peel Out
 - [ ] Bananas Faster
 - [ ] Stump Change
@@ -114,16 +114,16 @@ To install this texture pack, you should grab the latest version from [releases]
  
  - [X] Mario
  - [X] Luigi
- - [ ] Princess Peach
- - [ ] Yoshi
+ - [X] Princess Peach
+ - [X] Yoshi
  - [X] Wario
  - [X] Princess Daisy
  - [X] Waluigi
  - [X] Toad
- - [ ] Boo
- - [ ] Toadette
- - [ ] Birdo
- - [ ] Dry Bones
+ - [X] Boo
+ - [X] Toadette
+ - [X] Birdo
+ - [X] Dry Bones
  
 ##### Non-Playable Characters
  
@@ -135,4 +135,3 @@ To install this texture pack, you should grab the latest version from [releases]
  ### Misc
  
  - [X] UI Elements
- - [ ] Misc textures (Title screen, cutscenes, etc.) 
