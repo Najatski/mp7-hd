@@ -1,5 +1,8 @@
 # mp7-hd
 This is a Mario Party 7 texture upscale project in 4x resolution using mostly AI. Will make the whole game look a lot better in theory (obviously). I will upscale all textures with an AI, and then go back after to manually recreate a bunch after I finish to make them better.
+
+https://gamebanana.com/wips/69678
+
 https://imgsli.com/MTIwNTA1
  
 # How to Install
